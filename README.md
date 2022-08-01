@@ -24,7 +24,7 @@ Ketua: KETUA YAYASAN TRIYONO, S.E.
 # Pembagian Tugas
 ### Coding Website
 1. Zainul Muhajir
-2. Dimas Bimantor
+2. Dimas Bimantoro
 
 ### Wireframe dan Penentuan UI
 1. Sindida Hilmy
@@ -39,5 +39,4 @@ Ketua: KETUA YAYASAN TRIYONO, S.E.
     * Gambar background
 2. Fasilitas
 3. Event
-4. 
-5. About Us
+4. About Us
