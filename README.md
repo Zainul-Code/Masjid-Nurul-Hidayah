@@ -16,20 +16,14 @@ Selain untuk menampilkan profile, website yang kami buat juga bertujuan untuk me
 # Target 
 Masjid Nurul Hidayah
 
-# Penanggung Jawab
-USTADZ MOH. UMAR SA'I
-
-Ketua: KETUA YAYASAN TRIYONO, S.E.
-
 # Pembagian Tugas
-### Coding Website
-1. Zainul Muhajir
-2. Dimas Bimantoro
 
-### Wireframe dan Penentuan UI
-1. Sindida Hilmy
-2. Yazid Nur Yaqin
-3. yayan Suryana
+### Coding Website &  Ui/UX
+1. Dimas Bimantoro
+2. M. Sindida Hilmy
+3. Yayan Suryana
+4. Yazid Nur Yaqin
+5. Zainul Muhajir
 
 ### Feature
 1. Home Page
@@ -38,5 +32,5 @@ Ketua: KETUA YAYASAN TRIYONO, S.E.
     * Slogan
     * Gambar background
 2. Fasilitas
-3. Event
+3. Acara
 4. About Us
